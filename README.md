@@ -31,10 +31,10 @@ Retail footfall validation · complaint risk modelling · executive tooling at T
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/linkedin-let's%20connect-0B1F3A?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://in.linkedin.com/in/fidashameer"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:fidashameer06@gmail.com">
     <img src="https://img.shields.io/badge/email-say%20hi-0B1F3A?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
