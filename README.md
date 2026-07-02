@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">fida.</h1>
 
-<!--
-**fidashameer/fidashameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>3rd year. still figuring it out. building things until i do.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a CS student at VIT Vellore specialising in AI & ML, currently interning at 
+**Tata Motors Digital AI Labs**.
+
+I spend my days working on projects varying from computer vision pipelines for factory
+inspection to autonomous navigation systems for a competitive rover, and my nights 
+are probably spent planning trips or reading fiction.
+
+---
+
+**right now**
+-  B-pillar door gap inspection → YOLO + DP seam tracking + one-class anomaly detection
+-  Autonomous rover navigation → ROS2, Nav2, sensor fusion (Team Vyadh, VIT)
+-  Vehicle complaint risk prediction → XGBoost + SHAP on ePDI measurement data
+
+**stack I usually use**  
+`Python` `OpenCV` `YOLO` `scikit-learn` `ROS2` `NumPy` `Streamlit` `C++`
+
+**work under NDA** *(code private, but i'd be happy to talk about it)*  
+Retail footfall validation · complaint risk modelling · executive tooling at Tata Motors · autonomous navigation system
+
+
+---
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/linkedin-let's%20connect-0B1F3A?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/email-say%20hi-0B1F3A?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
