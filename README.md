@@ -6,7 +6,7 @@
 
 ---
 
-I'm a CS student at VIT Vellore specialising in AI & ML, currently interning at 
+I'm a CS student at VIT Vellore specialising in AI & ML, an ex-intern at 
 **Tata Motors Digital AI Labs**.
 
 I spend my days working on projects varying from computer vision pipelines for factory
